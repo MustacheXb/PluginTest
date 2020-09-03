@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mustachexb.plugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mustachexb.plugintest.MyBundle
 
 class MyApplicationService {
 
